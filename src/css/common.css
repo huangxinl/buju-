@@ -369,7 +369,7 @@ h1{
 }
 .maincontainer ul .special{
     vertical-align: top;
-    background-image: url(C:/Users/Administrator/Desktop/微软官网/image/p1.png);
+    background-image: url(https://imgazure.microsoftstore.com.cn/medias/HomePage2017SurfaceGuide-Media?context=bWFzdGVyfGltYWdlc3w0MTEyOXxpbWFnZS9wbmd8aW1hZ2VzL2gxMy9oOTgvOTk3OTI5MTA0MTgyMi5wbmd8MWQzNmI5ZDY1Yzg5NThmYWJiMWY1NjQxYWY3NGJjNmEzYzBmMzNjOWRiOWNiNWZkMWY4MTAwY2RhYjYyYzE5NA);
     height: 346.19px;
     background-size: cover;
     background-position: center;
@@ -388,9 +388,6 @@ html .maincontainer ul .special p{
 }
 
 
-footer{
-    height: 0;
-}
 
 footer img{
     width: 100%;
@@ -413,13 +410,13 @@ footer img{
 
 
 html .maincontainer ul  .office{
-    background-image: url(C:/Users/Administrator/Desktop/微软官网/image/office1.png);
+    background-image: url('https://imgazure.microsoftstore.com.cn/medias/HomePage2017OfficeGuide-Media?context=bWFzdGVyfGltYWdlc3wzMDU5NXxpbWFnZS9wbmd8aW1hZ2VzL2hjNC9oYTQvOTk3OTI5MTA3NDU5MC5wbmd8NmZjZmJiNDc4YmJiMWMyNjZhZDVlYzU2NjViNjhlOWQyZmM3YWFkZWI0MTY5MTQ0NWNhNTdiMzdhYWI2M2NiNA');
 }
 html .maincontainer ul  .computer{
-    background-image: url(C:/Users/Administrator/Desktop/微软官网/image/computer1.png);
+    background-image: url('https://imgazure.microsoftstore.com.cn/medias/HomePage2017XboxGuide-Media?context=bWFzdGVyfGltYWdlc3w2NDEwOHxpbWFnZS9wbmd8aW1hZ2VzL2hmOC9oYjYvOTk3OTI5MTEwNzM1OC5wbmd8MjMyOWRiNDVlMzQ4ZGNhNDM0ODFlMzUzNjU1ZTBjYzM2ZDQwNmQ5MDQyMjk3NWU2MGY5ZjI0MjBmMjM2ZDFkMg');
 }
 html .maincontainer ul  .Xbox{
-    background-image: url(C:/Users/Administrator/Desktop/微软官网/image/xBOX1.png);
+    background-image: url('https://imgazure.microsoftstore.com.cn/medias/HomePage2017ComputerGuide-Media?context=bWFzdGVyfGltYWdlc3w0NDY4MHxpbWFnZS9wbmd8aW1hZ2VzL2hiZC9oY2MvOTk3OTI5MTE0MDEyNi5wbmd8MWUxOGQzMTkyNTE1MGM3Zjg1YjE4ZGFhNTVmMzYyN2Q4OTJmMDdjNjU2ZGEzZWI4MDdiZTAzMDMzYmQzNWQ2Zg')
 }
 
 

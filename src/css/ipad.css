@@ -1,0 +1,300 @@
+
+
+/* 搜索区域 */
+.g_wrad{
+    height: 33px;
+    font-size: 14px;
+    line-height: 33px;
+}
+.g_wrad a{
+    display: inline-block;
+}
+
+.g_center{
+    height: 100%;
+    padding:0 50px
+}
+
+
+
+
+/* header部分 */
+header{
+    position: relative;
+    padding: 0 30px;
+    border-top: 1px solid #f5f5f5;
+    border-bottom: 1px solid #e5dfdf;
+    line-height: 50px;
+}
+.search{
+    position: relative;
+    right: 60px;
+}
+.list{
+    position: static;
+    display: block;
+}
+.list .g_ul li{
+    float: left;
+    height: 50px;
+    line-height: 50px;
+ }
+ .list .g_ul li a{
+     padding:0 5px 0 60px;
+     font-size: 13.5px;
+ }
+ .text {
+    color: #000;
+}
+
+.list .g_ul li a {
+    padding: 0 5px 0 30px;
+    font-size: 13.5px;
+}
+
+
+
+
+/* 轮播图 */
+html .lunbotu{
+    width: 768px;
+    overflow: hidden;
+}
+
+html .slider{
+    position: relative;
+    width: 600%;
+    font-size: 0;
+}
+
+html .slider img{
+    width: 768px;
+}
+
+
+/* 两张图片 */
+
+
+.listen{
+    width: 100%;
+    height: 117px;
+}
+.listen .cont{
+    font-size: 0;
+}
+.listen .imgleft{
+    width:70%;
+    height: 117px;
+
+}
+.listen .imgright{
+    width:30%;
+    height: 117px;
+
+}
+
+/* 关于 左侧文字 右侧图片 */
+.more{
+    margin-top: 5px; 
+    width: 768px;
+}
+
+.slider-l{
+    width: 185px;
+    height:250px;
+}
+.slider-l  ul{
+    padding-top: 5px; 
+}
+.slider-l li{
+    height: 28px;
+    line-height:28px;
+    text-align: center;
+}
+.slider-l li a{
+    font-size: 14px;
+    color: #fff;
+}
+.slider-r ul li p{
+    font-size: 14px;
+    padding-top: 5px;
+}
+.slider-r ul li:nth-child(3){
+    margin-right: 15px;
+}
+.slider-r{
+    width: 568px;
+}
+
+.slider-r ul li:nth-child(2){
+    margin: 0 5px;
+}
+
+
+
+
+
+/* 店长推荐 */
+h1{
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+.sliderList{
+    margin: 25px 0;
+}
+
+.container-list ul li h4{
+    font-size: 13px;
+    padding-top: 15px;
+}
+.container-list ul li p{
+    padding-bottom: 25px;
+
+}
+
+.container-list ul li span strong{
+    font-size: 14px;
+}
+
+
+
+
+/* <!-- 相同的item --> */
+.maincontainer{
+    width: 100%;
+    font-size: 0;
+}
+.maincontainer .maincont{
+    width: 768px;
+    margin: 10px auto;
+}
+
+.maincontainer ul .special{
+    height: 302.05px;
+}
+.maincontainer .maincont ul{
+    padding-top: 10px;
+    width: 730px;
+    margin: 0 auto;
+}
+
+.maincontainer .maincont ul li{
+    width: 25%;
+    height: 300px;
+    width: 25%;
+    display: inline-block;
+}
+.maincontainer .maincont ul li img{
+    padding-top: 30px;
+}
+h1{
+    padding-left:35px;
+    border-bottom: 0;
+}
+html .maincontainer ul .special{
+    background-size: 85% 85%;
+}
+html .maincontainer ul  .office{
+    background-size: 85% 85%;
+}
+html .maincontainer ul  .computer{
+    background-size: 85% 85%;
+}
+html .maincontainer ul  .Xbox{
+    background-size: 85% 85%;
+}
+
+html .maincontainer ul .special p{
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.container-list {
+    width: 100%;
+    padding: 10px 25px 0 25px;
+}
+
+.tuijian{
+    padding-left: 0;
+    border-bottom: 1px solid #000;
+}
+
+
+footer{
+    height: 480px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 公共样式 */
+
+
+html .ipadhide{
+    display: none;
+}
+html .ipadshow{
+    display: block;
+}
